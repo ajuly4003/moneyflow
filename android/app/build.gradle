@@ -4,7 +4,7 @@ android {
     namespace "cash.moneyflow.moneyflow"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "cash.moneyflow.moneyflow"
+        applicationId "com.alquranweb.bn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 5
