@@ -9,6 +9,7 @@ const config: CapacitorConfig = {
     SplashScreen: {
       launchAutoHide: true,
     },
+  },
 };
 
 export default config;
