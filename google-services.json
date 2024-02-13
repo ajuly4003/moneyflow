@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "244291508439",
+    "firebase_url": "https://bangla-quran-11fca-default-rtdb.firebaseio.com",
+    "project_id": "bangla-quran-11fca",
+    "storage_bucket": "bangla-quran-11fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244291508439:android:ea28b0feb2a2d855a3b892",
+        "android_client_info": {
+          "package_name": "com.alquranweb.bn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaO2kCOfZFk-orPV8p_cmkxx79-qnmN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244291508439:android:947c1059bea9d008a3b892",
+        "android_client_info": {
+          "package_name": "com.mosaphir.quranapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaO2kCOfZFk-orPV8p_cmkxx79-qnmN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
