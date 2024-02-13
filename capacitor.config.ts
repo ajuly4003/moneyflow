@@ -1,8 +1,8 @@
 import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "cash.moneyflow.moneyflow",
-  appName: "Money Flow",
+  appId: "com.alquranweb.bn",
+  appName: "Cashier X",
   webDir: "dist",
   server: {
     url: "http://192.168.1.13:5173",
